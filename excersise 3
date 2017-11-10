@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+</head>
+<body>
+
+<link rel= "stylesheet" href="format5.css">
+<h1> Red Sweatshirt </h1>
+
+<label for="Size"> what size would you like:</label>
+<input type="text" name= "size" id="size" list= "size>
+	<datalist id ="size">
+
+
+<br>
+<input type ="checkbox" name= "checkbox" id = "checkbox" value= "yes">Gift wrap for additional $3<br>
+
+Additional instructions: <br>
+
+<textarea name = "comments" id = "comments" cols"400" rows = "7"> enter your comments here </textarea>
+
+</body>
+</html>

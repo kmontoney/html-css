@@ -1,0 +1,16 @@
+<table border ="420">
+ <tr>
+    <th colspan="2"> this spanse two columns</td>
+ </tr>
+ <tr>
+    <td> jack</td>
+    <td> 5/13</td>
+    <td> 857-555-5555</td>
+ </tr>
+ <tr>
+    <td> sparky</td>
+    <td> 11/28</td>
+    <td> 303-555-5555</td>
+ </tr>
+</tabel>
+    

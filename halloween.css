@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Nosifer');
+
+html{ background-image: url (Hallbackground.jpg); }
+
+body { font-family: 'Nosifer', cursive;
+        text-align: center;}
+h1 { color: orange;
+}
+
+h3 { color: white;}
+
+h4 { color: purple;}
+
